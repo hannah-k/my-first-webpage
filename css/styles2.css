@@ -1,0 +1,26 @@
+h1 {
+  font-family: monospace;
+  font-family: sans-serif;
+  color: #581845;
+}
+
+h2 {
+  color:#FF5733;
+  font-weight: lighter;
+}
+
+h3 {
+  color:#FFC300;
+}
+
+p {
+  font-size:30px;
+}
+
+ul {
+  font-weight: bold;
+}
+
+li {
+  line-height: 20px;
+}
