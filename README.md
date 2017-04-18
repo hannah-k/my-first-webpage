@@ -1,12 +1,12 @@
-# _{My First Webpage}_
+# _My First Webpage_
 
-#### _{This is my first website.}, {04.18.2017}_
+#### _This is my first website., 04.18.2017_
 
-#### By _**{Hannah Kinne and Maria Del Castillo}**_
+#### By _**Hannah Kinne and Maria Del Castillo**_
 
 ## Description
 
-_{This website was created for my partner and I to practice HTML. This application discusses our favorite types of pizza as well as ice cream flavors.}_
+_This website was created for my partner and I to practice HTML. This application discusses our favorite types of pizza as well as ice cream flavors._
 
 ## Setup/Installation Requirements
 
@@ -15,25 +15,25 @@ _{This website was created for my partner and I to practice HTML. This applicati
 * Click link in application to view the second file, favorite-things.
 * Have fun!
 
-_{This requires a Desktop and a web browser.}_
+_This requires a Desktop and a web browser._
 
 ## Known Bugs
 
-_{There are currently no issues with the HTML in this document, yet it's style is severely lacking.}_
+_There are currently no issues with the HTML in this document, yet it's style is severely lacking._
 
 ## Support and contact details
 
-_{Feel free to contact me on GitHub or make any contributions to the code.}_
+_Feel free to contact me on GitHub or make any contributions to the code._
 
 ## Technologies Used
 
-_{Nothing really cool using HTML happened here so far. Only HTML was used for this application.}_
+_Nothing really cool using HTML happened here so far. Only HTML was used for this application._
 
 ### License
 
-*{MIT License
+*MIT License
 
-Copyright (c) [2017] [Hannah Kinne and Maria Del Castillo]
+Copyright (c) 2017 Hannah Kinne and Maria Del Castillo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -51,6 +51,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.}*
+SOFTWARE.*
 
 Copyright (c) 2017 **_{Hannah Kinne and Maria Del Castillo}_**
